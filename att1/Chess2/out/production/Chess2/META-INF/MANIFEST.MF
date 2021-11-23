@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: timoshinov_i_b.Main
-
