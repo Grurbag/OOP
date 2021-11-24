@@ -1,0 +1,6 @@
+move a2 a3
+move b7 b5
+move a3 a4
+move b5 a4
+exit
+todo: do full script
